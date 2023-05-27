@@ -2,3 +2,4 @@
 create_dataset_gta/input/GTA_all_data.csv
 create_dataset_gta/input/GTA_all_data.xlsx
 *.csv
+oec_data/create_variables_opportunity/output/data/dataset_oec_with_opportunity
