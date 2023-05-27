@@ -1,2 +1,2 @@
 # ip_complexity
- We manage data from OEC and GTA
+ In this project we manage data from the Observatory of Economic Complexity (OEC) and from the Global Trade Alert (GTA) to construct a measure of how well countries protect and liberalize their markets.
